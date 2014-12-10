@@ -1,0 +1,112 @@
+= Experimentation avec brian =
+
+sujet :
+auteurs : Grave Guy
+travail à faire :  créer application modélisant un réseau de memristor, capable d'effectuer de la reconnaissance d'émotion non-supervisée.
+
+= Technologies =
+
+langage : Scala et Python
+librairies : jAER (scala), et brian (Python)
+
+= But =
+
+L'objectif de cette application est de simuler un réseau de neurones, fabriqué à partie de memristors. Ce réseau de neurones doit reconnaitre des émotions à partir d'images, présentées sur son entrée.
+
+= Description de l'application =
+
+L'environnement logiciel utilisé est décomposé en deux applications indépendantes, une écrite en scala, et l'autre écrite en Python. Cette décomposition vient des technologies utilisées, ainsi que de contraintes de rétrocompatibilités. L'application Scala est une version modifiée de celle utilisée dans le travail de recherche suivant : http://forge.lifl.fr/Emeraude/wiki/NN_Facial_emotion_recognition. 
+
+== Application scala ==
+
+L'application scala va traduire des images dans un encodage compréhensible par le réseau de neurone. Le résultat de cette traduction sera stocké dans un fichier AER. Ce fichier sera ensuite lu par le simulateur codé avec brian. 
+
+=== AER ===
+Le choix de ce format de fichier .AER permet un meilleur interfaçage entre l’application scala et le simulateur. Brian contient des fonctions toute faites pour lire ces fichiers AER et transformer leur contenu en décharges destinées à des réseaux de neurones. 
+
+Ces fichiers AER sont des fichiers constitués : 
+- d'un en-tête ;
+- d'une suite de couples.
+
+Chacun des couples mentionnés plus haut contient : 
+- un numéro, qui identifie un neurone parmi tout les autres ;
+- un timestamps, qui indique quand le neurone a déchargé (il peut y avoir plusieurs décharges pour un seul neurone, à des temps différents).
+
+Ces deux paramètres sont des entiers 32 bits.
+
+=== Description du code ===
+L'application scala va créer un fichier utilisé pour faire apprendre le réseau de neurone, et un fichier de test pour vérifier que le réseau de neurone a bien appris. Chaque création de fichier est effectuée par une fonction disponible dans la classe starter : la fonction nommée file_writing. Cette fonction prend en entrée un booléen qui permet d'indiquer s'il faut créer un fichier de test ou d'apprentissage. La différence entre les deux consiste simplement en un nom de fichier différent.
+
+Cette fonction est composée de plusieurs parties :
+- le premier paragraphe crée le fichier .AER de sortie ;
+- le second remplit ce fichier .AER ;
+- le dernier ferme le fichier .AER crée.
+
+Le second paragraphe est celui qui est chargé de convertir nos images en fichiers .AER. Pour cela, il va appliquer un même traitement sur tous les fichiers images d'un répertoire.
+Ce traitement consiste à :
+- lire un fichier .jpg dans un répertoire et le stocker en mémoire RAM ;
+- le transformer en une image en niveaux de gris ;
+- extraire la bouche de l'image originelle et la stocker dans une image;
+- appliquer un filtre de détection des contours sur l'image de la bouche ;
+- encoder l'image dans une liste de couples ( numéro de neurone , instant de décharge )
+- et stocker cette liste dans un fichier .AER.
+
+Les deux premières étapes sont réalisées simultanément dans la fonction cvLoad.
+
+La troisième étape fait appel à un objet Recognizer.
+
+La quatrième étape fait appel à un singleton EdgeDetector.
+
+La cinquième fait appel à un objet Encoder.
+
+La sixième étape est effectuée par al fonction AER.write(), fournie par la bibliothèque jAER.
+
+==== Filtre de détection des bords ====
+
+Le filtre de détection des bords est présent afin de diminuer la taille du fichier .AER résultant de l'encodage. Sans ce filtre, les fichiers encodés peuvent dépasser le Gibioctet. Dans ces conditions, le simulateur Python n'arrive plus à les charger en mémoire, rendant toute simulation impossible. Le gain en espace disque peut être considérable et peut aller jusqu'à un joli petit *10 avec un encodage linéaire, rendant les simulations possibles.
+
+En effet, les différents encodages utilisés se basent tous sur les différents niveaux de gris de l'image. Le filtre de détection des bords permet de faire ressortir l'image de la bouche, et va éliminer une bonne partie des détails superflus. Toutes les zones uniformes de l'image seront alors totalement noires, et ne seront pas encodées dans le fichier .AER résultant.
+
+=== Encodages utilisés ===
+L'application scala permet d'utiliser un certain nombre d'encodages différents :
+- l'encodage a seuil ;
+- le phase coding ;
+- le rate coding ;
+- le linear coding ;
+- le frequency coding.
+
+=== codage à seuil ===
+
+Le codage à seuil est le plus simple :
+- si un pixel est noir -> pas de décharge du neurone associé au pixel ;
+- si un pixel est blanc ou gris -> neurone associé au pixel décharge.
+
+== Application python ==
+
+=== Description du fonctionnement de l'application ===
+
+== Reconnaissance de formes simples ==
+
+Pour faciliter les recherches, les expériences n'ont pas commencées directement par la reconnaissance d'émotions sur de vraies photographies. Pour simplifier les recherches, un premier réseau de neurone a été construit pour reconnaitre des formes simplifiées de bouches. Ces formes simplifiées ont étés regroupées dans le répertoire files6, et sont numérotées au hasard. 
+
+Le réseau de neurone utilisé a réussit à reconnaitre ces formes, ce qui était censé en faire un bon candidat, ou du moins une première étape vers la création d'un réseau de neurones capable de reconnaitre des émotions sur de vrais visage.
+
+Ce réseau de neurone était constitué :
+- d'une couche de neurone ;
+- d'une connexion entre le SpikeGenerator et la couche utilisant du STDP (des synapses) ;
+- de connections d'inhibition latérales, non-STDP.
+
+Fait étrange, la taille de la couche ne changeait rien à la facilité de reconnaissance des formes de bouches. 
+
+Les tests sans inhibition se sont révélés non-concluants, le réseau n’arrivant à reconnaitre les formes.
+
+Pour fonctionner, les paramètres du STDP et du neurones devaient être réglés comme suit :
+- Vt assez élevé, au alentours de 270 volts : la valeur de Vt joue beaucoup sur la capacité du réseau à fonctionner ;
+- Vr = 0 ;
+- La constante de temps du neurone LIF doit être proche du temps de présentation de l'image, environ la moitié ;
+- inhibit refractory < refractory < constante de temps ;
+- la durée de Long-term potentiation du STDP doit être très faible comparé à la constante de temps.
+
+== reconnaissance de visages ==
+
+

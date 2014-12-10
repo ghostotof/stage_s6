@@ -1,0 +1,100 @@
+
+Pour 100 :
+Nombre de cas OK : 50
+Nombre de cas KO : 50
+
+
+Pour 200 :
+Nombre de cas OK : 47
+Nombre de cas KO : 53
+
+
+Pour 300 :
+Nombre de cas OK : 49
+Nombre de cas KO : 51
+
+
+Pour 400 :
+Nombre de cas OK : 43
+Nombre de cas KO : 57
+
+
+Pour 500 :
+Nombre de cas OK : 55
+Nombre de cas KO : 45
+
+
+Pour 600 :
+Nombre de cas OK : 53
+Nombre de cas KO : 47
+
+
+Pour 700 :
+Nombre de cas OK : 49
+Nombre de cas KO : 51
+
+
+Pour 800 :
+Nombre de cas OK : 44
+Nombre de cas KO : 56
+
+
+Pour 900 :
+Nombre de cas OK : 45
+Nombre de cas KO : 55
+
+
+Pour 1000 :
+Nombre de cas OK : 47
+Nombre de cas KO : 53
+
+
+Pour 1100 :
+Nombre de cas OK : 49
+Nombre de cas KO : 51
+
+
+Pour 1200 :
+Nombre de cas OK : 48
+Nombre de cas KO : 52
+
+
+Pour 1300 :
+Nombre de cas OK : 41
+Nombre de cas KO : 59
+
+
+Pour 1400 :
+Nombre de cas OK : 41
+Nombre de cas KO : 59
+
+
+Pour 1500 :
+Nombre de cas OK : 41
+Nombre de cas KO : 59
+
+
+Pour 1600 :
+Nombre de cas OK : 41
+Nombre de cas KO : 59
+
+
+Pour 1700 :
+Nombre de cas OK : 33
+Nombre de cas KO : 67
+
+
+Pour 1800 :
+Nombre de cas OK : 49
+Nombre de cas KO : 51
+
+
+Pour 1900 :
+Nombre de cas OK : 50
+Nombre de cas KO : 50
+
+
+Pour 2000 :
+Nombre de cas OK : 39
+Nombre de cas KO : 61
+

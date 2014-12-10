@@ -1,0 +1,100 @@
+
+Pour 10 :
+Nombre de cas OK : 0
+Nombre de cas KO : 100
+
+
+Pour 20 :
+Nombre de cas OK : 0
+Nombre de cas KO : 100
+
+
+Pour 30 :
+Nombre de cas OK : 2
+Nombre de cas KO : 98
+
+
+Pour 40 :
+Nombre de cas OK : 4
+Nombre de cas KO : 96
+
+
+Pour 50 :
+Nombre de cas OK : 3
+Nombre de cas KO : 97
+
+
+Pour 60 :
+Nombre de cas OK : 4
+Nombre de cas KO : 96
+
+
+Pour 70 :
+Nombre de cas OK : 3
+Nombre de cas KO : 97
+
+
+Pour 80 :
+Nombre de cas OK : 6
+Nombre de cas KO : 94
+
+
+Pour 90 :
+Nombre de cas OK : 8
+Nombre de cas KO : 92
+
+
+Pour 100 :
+Nombre de cas OK : 6
+Nombre de cas KO : 94
+
+
+Pour 110 :
+Nombre de cas OK : 3
+Nombre de cas KO : 97
+
+
+Pour 120 :
+Nombre de cas OK : 9
+Nombre de cas KO : 91
+
+
+Pour 130 :
+Nombre de cas OK : 14
+Nombre de cas KO : 86
+
+
+Pour 140 :
+Nombre de cas OK : 16
+Nombre de cas KO : 84
+
+
+Pour 150 :
+Nombre de cas OK : 6
+Nombre de cas KO : 94
+
+
+Pour 160 :
+Nombre de cas OK : 16
+Nombre de cas KO : 84
+
+
+Pour 170 :
+Nombre de cas OK : 8
+Nombre de cas KO : 92
+
+
+Pour 180 :
+Nombre de cas OK : 17
+Nombre de cas KO : 83
+
+
+Pour 190 :
+Nombre de cas OK : 18
+Nombre de cas KO : 82
+
+
+Pour 200 :
+Nombre de cas OK : 22
+Nombre de cas KO : 78
+

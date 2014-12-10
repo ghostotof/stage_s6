@@ -1,0 +1,99 @@
+nbCas 10
+pourcentage 23
+
+nbCas 20
+pourcentage 27
+
+nbCas 30
+pourcentage 34
+
+nbCas 40
+pourcentage 41
+
+nbCas 50
+pourcentage 41
+
+nbCas 60
+pourcentage 43
+
+nbCas 70
+pourcentage 47
+
+nbCas 80
+pourcentage 49
+
+nbCas 90
+pourcentage 57
+
+nbCas 100
+pourcentage 58
+
+nbCas 110
+pourcentage 62
+
+nbCas 120
+pourcentage 53
+
+nbCas 130
+pourcentage 59
+
+nbCas 140
+pourcentage 64
+
+nbCas 150
+pourcentage 62
+
+nbCas 160
+pourcentage 65
+
+nbCas 170
+pourcentage 63
+
+nbCas 180
+pourcentage 68
+
+nbCas 190
+pourcentage 60
+
+nbCas 200
+pourcentage 73
+
+nbCas 300
+pourcentage 73
+
+nbCas 400
+pourcentage 71
+
+nbCas 500
+pourcentage 72
+
+nbCas 600
+pourcentage 77
+
+nbCas 700
+pourcentage 73
+
+nbCas 800
+pourcentage 78
+
+nbCas 900
+pourcentage 80
+
+nbCas 1000
+pourcentage 73
+
+nbCas 1100
+pourcentage 75
+
+nbCas 1200
+pourcentage 72
+
+nbCas 1300
+pourcentage 82
+
+nbCas 1400
+pourcentage 74
+
+nbCas 1500
+pourcentage 78
+

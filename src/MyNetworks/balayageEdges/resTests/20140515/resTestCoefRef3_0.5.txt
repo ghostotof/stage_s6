@@ -1,0 +1,3897 @@
+Résultats après apprentissage
+learnST_US_CoefRef3_0.5
+
+learnST_US_CoefRef3_0.5
+Nb images souriantes : 953
+Nb images non souriantes : 0
+
+Image 0 (happy):
+Neurone 0: 1
+Neurone 1: 2
+
+Image 1 (happy):
+Neurone 0: 0
+Neurone 1: 2
+
+Image 2 (happy):
+Neurone 0: 0
+Neurone 1: 2
+
+Image 3 (happy):
+Neurone 0: 0
+Neurone 1: 2
+
+Image 4 (happy):
+Neurone 0: 1
+Neurone 1: 2
+
+Image 5 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 6 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 7 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 8 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 9 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 10 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 11 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 12 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 13 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 14 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 15 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 16 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 17 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 18 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 19 (happy):
+Neurone 0: 0
+Neurone 1: 1
+
+Image 20 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 21 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 22 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 23 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 24 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 25 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 26 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 27 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 28 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 29 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 30 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 31 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 32 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 33 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 34 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 35 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 36 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 37 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 38 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 39 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 40 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 41 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 42 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 43 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 44 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 45 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 46 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 47 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 48 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 49 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 50 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 51 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 52 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 53 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 54 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 55 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 56 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 57 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 58 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 59 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 60 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 61 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 62 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 63 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 64 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 65 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 66 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 67 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 68 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 69 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 70 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 71 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 72 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 73 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 74 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 75 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 76 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 77 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 78 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 79 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 80 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 81 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 82 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 83 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 84 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 85 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 86 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 87 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 88 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 89 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 90 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 91 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 92 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 93 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 94 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 95 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 96 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 97 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 98 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 99 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 100 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 101 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 102 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 103 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 104 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 105 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 106 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 107 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 108 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 109 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 110 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 111 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 112 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 113 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 114 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 115 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 116 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 117 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 118 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 119 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 120 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 121 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 122 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 123 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 124 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 125 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 126 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 127 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 128 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 129 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 130 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 131 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 132 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 133 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 134 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 135 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 136 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 137 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 138 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 139 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 140 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 141 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 142 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 143 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 144 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 145 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 146 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 147 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 148 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 149 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 150 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 151 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 152 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 153 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 154 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 155 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 156 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 157 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 158 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 159 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 160 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 161 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 162 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 163 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 164 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 165 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 166 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 167 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 168 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 169 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 170 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 171 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 172 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 173 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 174 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 175 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 176 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 177 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 178 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 179 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 180 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 181 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 182 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 183 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 184 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 185 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 186 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 187 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 188 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 189 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 190 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 191 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 192 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 193 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 194 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 195 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 196 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 197 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 198 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 199 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 200 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 201 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 202 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 203 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 204 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 205 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 206 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 207 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 208 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 209 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 210 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 211 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 212 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 213 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 214 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 215 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 216 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 217 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 218 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 219 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 220 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 221 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 222 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 223 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 224 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 225 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 226 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 227 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 228 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 229 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 230 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 231 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 232 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 233 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 234 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 235 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 236 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 237 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 238 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 239 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 240 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 241 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 242 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 243 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 244 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 245 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 246 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 247 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 248 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 249 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 250 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 251 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 252 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 253 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 254 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 255 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 256 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 257 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 258 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 259 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 260 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 261 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 262 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 263 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 264 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 265 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 266 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 267 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 268 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 269 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 270 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 271 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 272 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 273 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 274 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 275 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 276 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 277 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 278 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 279 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 280 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 281 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 282 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 283 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 284 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 285 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 286 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 287 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 288 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 289 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 290 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 291 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 292 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 293 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 294 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 295 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 296 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 297 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 298 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 299 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 300 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 301 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 302 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 303 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 304 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 305 (happy):
+Neurone 0: 1
+Neurone 1: 1
+
+Image 306 (happy):
+Neurone 0: 2
+Neurone 1: 2
+
+Image 307 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 308 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 309 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 310 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 311 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 312 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 313 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 314 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 315 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 316 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 317 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 318 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 319 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 320 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 321 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 322 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 323 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 324 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 325 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 326 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 327 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 328 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 329 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 330 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 331 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 332 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 333 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 334 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 335 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 336 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 337 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 338 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 339 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 340 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 341 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 342 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 343 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 344 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 345 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 346 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 347 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 348 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 349 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 350 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 351 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 352 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 353 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 354 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 355 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 356 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 357 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 358 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 359 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 360 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 361 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 362 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 363 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 364 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 365 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 366 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 367 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 368 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 369 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 370 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 371 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 372 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 373 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 374 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 375 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 376 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 377 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 378 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 379 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 380 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 381 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 382 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 383 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 384 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 385 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 386 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 387 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 388 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 389 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 390 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 391 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 392 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 393 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 394 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 395 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 396 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 397 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 398 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 399 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 400 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 401 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 402 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 403 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 404 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 405 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 406 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 407 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 408 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 409 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 410 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 411 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 412 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 413 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 414 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 415 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 416 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 417 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 418 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 419 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 420 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 421 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 422 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 423 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 424 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 425 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 426 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 427 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 428 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 429 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 430 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 431 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 432 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 433 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 434 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 435 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 436 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 437 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 438 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 439 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 440 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 441 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 442 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 443 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 444 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 445 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 446 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 447 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 448 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 449 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 450 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 451 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 452 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 453 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 454 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 455 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 456 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 457 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 458 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 459 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 460 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 461 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 462 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 463 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 464 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 465 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 466 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 467 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 468 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 469 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 470 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 471 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 472 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 473 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 474 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 475 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 476 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 477 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 478 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 479 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 480 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 481 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 482 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 483 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 484 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 485 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 486 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 487 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 488 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 489 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 490 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 491 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 492 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 493 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 494 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 495 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 496 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 497 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 498 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 499 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 500 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 501 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 502 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 503 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 504 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 505 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 506 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 507 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 508 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 509 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 510 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 511 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 512 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 513 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 514 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 515 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 516 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 517 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 518 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 519 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 520 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 521 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 522 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 523 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 524 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 525 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 526 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 527 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 528 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 529 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 530 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 531 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 532 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 533 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 534 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 535 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 536 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 537 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 538 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 539 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 540 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 541 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 542 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 543 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 544 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 545 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 546 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 547 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 548 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 549 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 550 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 551 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 552 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 553 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 554 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 555 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 556 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 557 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 558 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 559 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 560 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 561 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 562 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 563 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 564 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 565 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 566 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 567 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 568 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 569 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 570 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 571 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 572 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 573 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 574 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 575 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 576 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 577 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 578 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 579 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 580 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 581 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 582 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 583 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 584 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 585 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 586 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 587 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 588 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 589 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 590 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 591 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 592 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 593 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 594 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 595 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 596 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 597 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 598 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 599 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 600 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 601 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 602 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 603 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 604 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 605 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 606 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 607 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 608 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 609 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 610 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 611 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 612 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 613 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 614 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 615 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 616 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 617 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 618 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 619 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 620 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 621 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 622 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 623 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 624 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 625 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 626 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 627 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 628 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 629 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 630 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 631 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 632 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 633 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 634 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 635 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 636 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 637 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 638 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 639 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 640 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 641 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 642 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 643 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 644 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 645 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 646 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 647 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 648 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 649 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 650 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 651 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 652 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 653 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 654 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 655 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 656 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 657 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 658 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 659 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 660 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 661 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 662 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 663 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 664 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 665 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 666 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 667 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 668 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 669 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 670 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 671 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 672 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 673 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 674 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 675 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 676 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 677 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 678 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 679 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 680 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 681 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 682 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 683 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 684 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 685 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 686 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 687 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 688 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 689 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 690 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 691 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 692 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 693 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 694 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 695 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 696 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 697 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 698 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 699 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 700 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 701 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 702 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 703 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 704 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 705 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 706 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 707 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 708 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 709 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 710 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 711 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 712 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 713 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 714 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 715 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 716 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 717 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 718 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 719 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 720 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 721 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 722 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 723 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 724 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 725 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 726 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 727 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 728 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 729 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 730 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 731 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 732 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 733 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 734 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 735 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 736 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 737 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 738 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 739 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 740 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 741 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 742 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 743 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 744 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 745 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 746 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 747 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 748 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 749 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 750 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 751 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 752 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 753 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 754 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 755 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 756 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 757 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 758 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 759 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 760 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 761 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 762 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 763 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 764 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 765 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 766 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 767 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 768 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 769 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 770 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 771 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 772 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 773 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 774 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 775 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 776 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 777 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 778 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 779 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 780 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 781 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 782 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 783 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 784 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 785 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 786 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 787 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 788 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 789 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 790 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 791 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 792 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 793 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 794 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 795 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 796 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 797 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 798 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 799 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 800 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 801 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 802 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 803 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 804 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 805 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 806 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 807 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 808 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 809 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 810 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 811 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 812 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 813 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 814 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 815 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 816 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 817 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 818 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 819 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 820 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 821 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 822 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 823 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 824 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 825 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 826 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 827 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 828 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 829 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 830 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 831 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 832 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 833 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 834 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 835 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 836 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 837 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 838 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 839 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 840 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 841 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 842 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 843 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 844 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 845 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 846 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 847 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 848 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 849 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 850 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 851 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 852 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 853 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 854 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 855 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 856 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 857 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 858 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 859 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 860 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 861 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 862 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 863 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 864 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 865 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 866 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 867 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 868 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 869 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 870 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 871 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 872 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 873 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 874 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 875 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 876 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 877 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 878 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 879 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 880 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 881 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 882 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 883 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 884 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 885 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 886 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 887 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 888 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 889 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 890 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 891 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 892 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 893 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 894 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 895 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 896 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 897 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 898 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 899 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 900 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 901 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 902 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 903 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 904 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 905 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 906 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 907 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 908 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 909 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 910 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 911 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 912 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 913 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 914 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 915 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 916 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 917 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 918 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 919 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 920 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 921 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 922 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 923 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 924 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 925 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 926 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 927 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 928 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 929 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 930 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 931 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 932 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 933 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 934 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 935 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 936 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 937 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 938 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 939 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 940 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 941 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 942 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 943 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 944 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 945 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 946 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 947 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 948 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 949 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 950 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 951 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Image 952 (happy):
+Neurone 0: 0
+Neurone 1: 0
+
+Total:
+
+Couche 1 :
+Neurone ( 0 ) :  2275
+Neurone ( 1 ) :  2051
+Neurone ( 2 ) :  779
+Neurone ( 3 ) :  714
+Neurone ( 4 ) :  1241
+Neurone ( 5 ) :  1134
+Neurone ( 6 ) :  969
+Neurone ( 7 ) :  1019
+Neurone ( 8 ) :  1238
+Neurone ( 9 ) :  1716
+Neurone ( 10 ) :  2432
+Neurone ( 11 ) :  2743
+Neurone ( 12 ) :  2757
+Neurone ( 13 ) :  2664
+Neurone ( 14 ) :  2867
+Neurone ( 15 ) :  3551
+Neurone ( 16 ) :  3094
+Neurone ( 17 ) :  1798
+Neurone ( 18 ) :  1404
+Neurone ( 19 ) :  1737
+Neurone ( 20 ) :  1537
+Neurone ( 21 ) :  1177
+Neurone ( 22 ) :  1460
+Neurone ( 23 ) :  1996
+Neurone ( 24 ) :  1860
+Neurone ( 25 ) :  1553
+Neurone ( 26 ) :  1587
+Neurone ( 27 ) :  1983
+Neurone ( 28 ) :  2211
+Neurone ( 29 ) :  2681
+Neurone ( 30 ) :  3095
+Neurone ( 31 ) :  3086
+Neurone ( 32 ) :  2430
+Neurone ( 33 ) :  2118
+Neurone ( 34 ) :  2125
+Neurone ( 35 ) :  1883
+Neurone ( 36 ) :  1155
+Neurone ( 37 ) :  975
+Neurone ( 38 ) :  2427
+Neurone ( 39 ) :  2596
+
+Couche 2 :
+Neurone ( 0 ) :  5749
+Neurone ( 1 ) :  6297
+Neurone ( 2 ) :  5138
+Neurone ( 3 ) :  2756
+Neurone ( 4 ) :  8346
+Neurone ( 5 ) :  2091
+Neurone ( 6 ) :  8893
+Neurone ( 7 ) :  1877
+Neurone ( 8 ) :  8997
+Neurone ( 9 ) :  1891
+Neurone ( 10 ) :  8943
+Neurone ( 11 ) :  1925
+Neurone ( 12 ) :  9012
+Neurone ( 13 ) :  1585
+Neurone ( 14 ) :  8999
+Neurone ( 15 ) :  1835
+Neurone ( 16 ) :  8943
+Neurone ( 17 ) :  1792
+Neurone ( 18 ) :  8231
+Neurone ( 19 ) :  2768
+
+Couche 3 :
+Neurone ( 0 ) :  235
+Neurone ( 1 ) :  244
+
+
+#######################################################
+
+
+Résultats après tests
+testST_US_CoefRef3_0.5.py
+
+

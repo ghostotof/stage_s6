@@ -1,0 +1,6269 @@
+Résultats après apprentissage
+learnST_US_InhWei_8
+
+learnST_US_InhWei_8
+Nb images souriantes : 805
+Nb images non souriantes : 0
+
+Image 0 (happy): file0561.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 1 (happy): file0593.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 2 (happy): file0267.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 3 (happy): file0482.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 4 (happy): file0702.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 5 (happy): file0525.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 6 (happy): file0690.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 7 (happy): file0724.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 8 (happy): file0870.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 9 (happy): file0568.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 10 (happy): file0286.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 11 (happy): file0100.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 12 (happy): file0912.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 13 (happy): file0531.jpg
+Neurone 0: 2
+Neurone 1: 1
+
+Image 14 (happy): file0344.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 15 (happy): file0259.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 16 (happy): file0002.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 17 (happy): file0650.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 18 (happy): file0373.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 19 (happy): file0683.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 20 (happy): file0067.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 21 (happy): file0931.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 22 (happy): file0778.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 23 (happy): file0964.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 24 (happy): file0421.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 25 (happy): file0099.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 26 (happy): file0514.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 27 (happy): file0663.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 28 (happy): file0849.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 29 (happy): file0367.jpg
+Neurone 0: 0
+Neurone 1: 0
+
+Image 30 (happy): file0884.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 31 (happy): file0656.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 32 (happy): file0430.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 33 (happy): file0460.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 34 (happy): file0097.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 35 (happy): file0538.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 36 (happy): file0803.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 37 (happy): file0606.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 38 (happy): file0060.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 39 (happy): file0915.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 40 (happy): file1000.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 41 (happy): file0592.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 42 (happy): file0269.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 43 (happy): file0150.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 44 (happy): file0080.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 45 (happy): file0447.jpg
+Neurone 0: 0
+Neurone 1: 0
+
+Image 46 (happy): file0999.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 47 (happy): file0506.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 48 (happy): file0582.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 49 (happy): file0869.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 50 (happy): file0619.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 51 (happy): file0134.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 52 (happy): file0933.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 53 (happy): file0665.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 54 (happy): file0573.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 55 (happy): file0379.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 56 (happy): file0954.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 57 (happy): file0613.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 58 (happy): file0061.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 59 (happy): file0398.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 60 (happy): file0245.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 61 (happy): file0749.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 62 (happy): file0329.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 63 (happy): file0201.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 64 (happy): file0971.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 65 (happy): file0070.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 66 (happy): file0966.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 67 (happy): file0280.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 68 (happy): file0547.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 69 (happy): file0124.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 70 (happy): file0229.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 71 (happy): file0980.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 72 (happy): file0388.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 73 (happy): file0050.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 74 (happy): file0840.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 75 (happy): file0056.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 76 (happy): file0723.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 77 (happy): file0679.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 78 (happy): file0785.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 79 (happy): file0263.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 80 (happy): file0021.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 81 (happy): file0876.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 82 (happy): file0410.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 83 (happy): file0098.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 84 (happy): file0621.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 85 (happy): file0377.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 86 (happy): file0221.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 87 (happy): file0488.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 88 (happy): file0039.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 89 (happy): file0116.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 90 (happy): file0444.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 91 (happy): file0883.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 92 (happy): file0026.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 93 (happy): file0503.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 94 (happy): file0608.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 95 (happy): file0413.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 96 (happy): file0867.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 97 (happy): file0991.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 98 (happy): file0220.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 99 (happy): file0553.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 100 (happy): file0741.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 101 (happy): file0477.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 102 (happy): file0032.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 103 (happy): file0102.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 104 (happy): file0994.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 105 (happy): file0877.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 106 (happy): file0743.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 107 (happy): file0315.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 108 (happy): file0118.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 109 (happy): file0375.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 110 (happy): file0940.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 111 (happy): file0560.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 112 (happy): file0473.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 113 (happy): file0872.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 114 (happy): file0651.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 115 (happy): file0044.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 116 (happy): file0555.jpg
+Neurone 0: 0
+Neurone 1: 0
+
+Image 117 (happy): file0857.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 118 (happy): file0878.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 119 (happy): file0428.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 120 (happy): file0164.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 121 (happy): file0750.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 122 (happy): file0330.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 123 (happy): file0107.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 124 (happy): file0498.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 125 (happy): file0468.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 126 (happy): file0049.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 127 (happy): file0231.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 128 (happy): file0522.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 129 (happy): file0925.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 130 (happy): file0492.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 131 (happy): file0193.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 132 (happy): file0359.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 133 (happy): file0678.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 134 (happy): file0647.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 135 (happy): file0534.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 136 (happy): file0003.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 137 (happy): file0424.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 138 (happy): file0397.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 139 (happy): file0483.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 140 (happy): file0392.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 141 (happy): file0616.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 142 (happy): file0905.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 143 (happy): file0886.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 144 (happy): file0787.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 145 (happy): file0385.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 146 (happy): file0045.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 147 (happy): file0192.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 148 (happy): file0165.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 149 (happy): file0648.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 150 (happy): file0403.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 151 (happy): file0957.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 152 (happy): file0796.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 153 (happy): file0694.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 154 (happy): file0536.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 155 (happy): file0829.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 156 (happy): file0249.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 157 (happy): file0848.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 158 (happy): file0948.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 159 (happy): file0450.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 160 (happy): file0298.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 161 (happy): file0248.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 162 (happy): file0652.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 163 (happy): file0366.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 164 (happy): file0692.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 165 (happy): file0577.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 166 (happy): file0239.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 167 (happy): file0511.jpg
+Neurone 0: 0
+Neurone 1: 0
+
+Image 168 (happy): file0126.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 169 (happy): file0327.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 170 (happy): file0508.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 171 (happy): file0628.jpg
+Neurone 0: 0
+Neurone 1: 0
+
+Image 172 (happy): file0801.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 173 (happy): file0520.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 174 (happy): file0953.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 175 (happy): file0381.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 176 (happy): file0075.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 177 (happy): file0076.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 178 (happy): file0027.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 179 (happy): file0524.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 180 (happy): file0639.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 181 (happy): file0110.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 182 (happy): file0303.jpg
+Neurone 0: 0
+Neurone 1: 0
+
+Image 183 (happy): file0338.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 184 (happy): file0636.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 185 (happy): file0336.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 186 (happy): file0004.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 187 (happy): file0682.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 188 (happy): file0200.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 189 (happy): file0463.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 190 (happy): file0264.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 191 (happy): file0148.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 192 (happy): file0733.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 193 (happy): file0230.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 194 (happy): file0552.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 195 (happy): file0507.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 196 (happy): file0036.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 197 (happy): file0839.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 198 (happy): file0632.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 199 (happy): file0277.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 200 (happy): file0015.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 201 (happy): file0400.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 202 (happy): file0766.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 203 (happy): file0889.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 204 (happy): file0258.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 205 (happy): file0754.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 206 (happy): file0348.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 207 (happy): file0734.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 208 (happy): file0753.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 209 (happy): file0786.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 210 (happy): file0159.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 211 (happy): file0908.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 212 (happy): file0432.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 213 (happy): file0378.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 214 (happy): file0973.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 215 (happy): file0186.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 216 (happy): file0984.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 217 (happy): file0438.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 218 (happy): file0811.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 219 (happy): file0457.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 220 (happy): file0594.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 221 (happy): file0163.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 222 (happy): file0755.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 223 (happy): file0544.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 224 (happy): file0855.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 225 (happy): file0711.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 226 (happy): file0967.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 227 (happy): file0893.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 228 (happy): file0846.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 229 (happy): file0847.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 230 (happy): file0232.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 231 (happy): file0958.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 232 (happy): file0156.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 233 (happy): file0584.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 234 (happy): file0539.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 235 (happy): file0851.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 236 (happy): file0053.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 237 (happy): file0792.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 238 (happy): file0885.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 239 (happy): file0166.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 240 (happy): file0513.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 241 (happy): file0394.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 242 (happy): file0309.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 243 (happy): file0856.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 244 (happy): file0276.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 245 (happy): file0982.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 246 (happy): file0152.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 247 (happy): file0238.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 248 (happy): file0643.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 249 (happy): file0037.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 250 (happy): file0975.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 251 (happy): file0363.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 252 (happy): file0437.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 253 (happy): file0657.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 254 (happy): file0386.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 255 (happy): file0983.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 256 (happy): file0133.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 257 (happy): file0854.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 258 (happy): file0205.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 259 (happy): file0717.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 260 (happy): file0370.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 261 (happy): file0816.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 262 (happy): file0535.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 263 (happy): file0154.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 264 (happy): file0677.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 265 (happy): file0179.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 266 (happy): file0629.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 267 (happy): file0310.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 268 (happy): file0887.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 269 (happy): file0575.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 270 (happy): file0505.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 271 (happy): file0944.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 272 (happy): file0081.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 273 (happy): file0357.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 274 (happy): file0985.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 275 (happy): file0963.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 276 (happy): file0312.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 277 (happy): file0307.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 278 (happy): file0813.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 279 (happy): file0013.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 280 (happy): file0151.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 281 (happy): file0372.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 282 (happy): file0038.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 283 (happy): file0449.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 284 (happy): file0576.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 285 (happy): file0235.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 286 (happy): file0599.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 287 (happy): file0155.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 288 (happy): file0191.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 289 (happy): file0436.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 290 (happy): file0035.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 291 (happy): file0537.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 292 (happy): file0479.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 293 (happy): file0046.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 294 (happy): file0499.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 295 (happy): file0073.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 296 (happy): file0109.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 297 (happy): file0517.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 298 (happy): file0825.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 299 (happy): file0051.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 300 (happy): file0240.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 301 (happy): file0904.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 302 (happy): file0566.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 303 (happy): file0832.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 304 (happy): file0453.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 305 (happy): file0352.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 306 (happy): file0624.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 307 (happy): file0938.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 308 (happy): file0486.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 309 (happy): file0260.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 310 (happy): file0117.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 311 (happy): file0523.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 312 (happy): file0757.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 313 (happy): file0396.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 314 (happy): file0864.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 315 (happy): file0023.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 316 (happy): file0512.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 317 (happy): file0136.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 318 (happy): file0927.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 319 (happy): file0093.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 320 (happy): file0565.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 321 (happy): file0461.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 322 (happy): file0278.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 323 (happy): file0567.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 324 (happy): file0645.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 325 (happy): file0725.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 326 (happy): file0654.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 327 (happy): file0273.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 328 (happy): file0022.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 329 (happy): file0101.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 330 (happy): file0091.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 331 (happy): file0407.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 332 (happy): file0799.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 333 (happy): file0623.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 334 (happy): file0820.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 335 (happy): file0907.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 336 (happy): file0718.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 337 (happy): file0504.jpg
+Neurone 0: 0
+Neurone 1: 0
+
+Image 338 (happy): file0974.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 339 (happy): file0828.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 340 (happy): file0747.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 341 (happy): file0760.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 342 (happy): file0834.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 343 (happy): file0331.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 344 (happy): file0078.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 345 (happy): file0402.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 346 (happy): file0362.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 347 (happy): file0279.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 348 (happy): file0997.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 349 (happy): file0764.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 350 (happy): file0959.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 351 (happy): file0416.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 352 (happy): file0423.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 353 (happy): file0978.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 354 (happy): file0821.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 355 (happy): file0390.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 356 (happy): file0574.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 357 (happy): file0739.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 358 (happy): file0254.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 359 (happy): file0426.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 360 (happy): file0326.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 361 (happy): file0716.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 362 (happy): file0347.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 363 (happy): file0759.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 364 (happy): file0922.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 365 (happy): file0170.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 366 (happy): file0615.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 367 (happy): file0297.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 368 (happy): file0620.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 369 (happy): file0115.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 370 (happy): file0827.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 371 (happy): file0157.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 372 (happy): file0189.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 373 (happy): file0495.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 374 (happy): file0190.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 375 (happy): file0605.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 376 (happy): file0981.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 377 (happy): file0142.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 378 (happy): file0435.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 379 (happy): file0177.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 380 (happy): file0732.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 381 (happy): file0703.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 382 (happy): file0913.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 383 (happy): file0077.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 384 (happy): file0540.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 385 (happy): file0090.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 386 (happy): file0290.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 387 (happy): file0178.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 388 (happy): file0518.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 389 (happy): file0706.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 390 (happy): file0769.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 391 (happy): file0337.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 392 (happy): file0261.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 393 (happy): file0699.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 394 (happy): file0346.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 395 (happy): file0515.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 396 (happy): file0611.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 397 (happy): file0808.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 398 (happy): file0369.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 399 (happy): file0579.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 400 (happy): file0429.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 401 (happy): file0083.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 402 (happy): file0569.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 403 (happy): file0384.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 404 (happy): file0487.jpg
+Neurone 0: 0
+Neurone 1: 0
+
+Image 405 (happy): file0898.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 406 (happy): file0332.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 407 (happy): file0795.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 408 (happy): file0554.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 409 (happy): file0681.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 410 (happy): file0173.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 411 (happy): file0147.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 412 (happy): file0509.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 413 (happy): file0418.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 414 (happy): file0361.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 415 (happy): file0024.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 416 (happy): file0949.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 417 (happy): file0161.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 418 (happy): file0085.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 419 (happy): file0171.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 420 (happy): file0300.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 421 (happy): file0111.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 422 (happy): file0686.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 423 (happy): file0222.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 424 (happy): file0471.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 425 (happy): file0319.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 426 (happy): file0715.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 427 (happy): file0180.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 428 (happy): file0526.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 429 (happy): file0121.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 430 (happy): file0891.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 431 (happy): file0995.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 432 (happy): file0253.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 433 (happy): file0571.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 434 (happy): file0815.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 435 (happy): file0137.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 436 (happy): file0478.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 437 (happy): file0519.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 438 (happy): file0789.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 439 (happy): file0669.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 440 (happy): file0640.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 441 (happy): file0903.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 442 (happy): file0817.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 443 (happy): file0879.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 444 (happy): file0406.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 445 (happy): file0316.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 446 (happy): file0127.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 447 (happy): file0712.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 448 (happy): file0590.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 449 (happy): file0689.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 450 (happy): file0294.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 451 (happy): file0391.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 452 (happy): file0516.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 453 (happy): file0738.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 454 (happy): file0484.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 455 (happy): file0123.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 456 (happy): file0033.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 457 (happy): file0442.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 458 (happy): file0844.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 459 (happy): file0198.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 460 (happy): file0929.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 461 (happy): file0292.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 462 (happy): file0314.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 463 (happy): file0351.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 464 (happy): file0017.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 465 (happy): file0685.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 466 (happy): file0833.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 467 (happy): file0976.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 468 (happy): file0977.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 469 (happy): file0360.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 470 (happy): file0751.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 471 (happy): file0058.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 472 (happy): file0283.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 473 (happy): file0427.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 474 (happy): file0969.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 475 (happy): file0617.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 476 (happy): file0271.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 477 (happy): file0586.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 478 (happy): file0937.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 479 (happy): file0895.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 480 (happy): file0737.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 481 (happy): file0382.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 482 (happy): file0328.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 483 (happy): file0899.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 484 (happy): file0700.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 485 (happy): file0546.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 486 (happy): file0564.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 487 (happy): file0216.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 488 (happy): file0532.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 489 (happy): file0916.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 490 (happy): file0135.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 491 (happy): file0465.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 492 (happy): file0805.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 493 (happy): file0052.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 494 (happy): file0784.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 495 (happy): file0321.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 496 (happy): file0459.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 497 (happy): file0979.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 498 (happy): file0233.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 499 (happy): file0736.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 500 (happy): file0658.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 501 (happy): file0562.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 502 (happy): file0668.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 503 (happy): file0011.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 504 (happy): file0528.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 505 (happy): file0642.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 506 (happy): file0952.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 507 (happy): file0490.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 508 (happy): file0888.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 509 (happy): file0793.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 510 (happy): file0446.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 511 (happy): file0034.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 512 (happy): file0583.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 513 (happy): file0638.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 514 (happy): file0814.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 515 (happy): file0048.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 516 (happy): file0961.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 517 (happy): file0412.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 518 (happy): file0637.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 519 (happy): file0604.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 520 (happy): file0350.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 521 (happy): file0317.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 522 (happy): file0875.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 523 (happy): file0374.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 524 (happy): file0609.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 525 (happy): file0195.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 526 (happy): file0274.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 527 (happy): file0088.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 528 (happy): file0607.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 529 (happy): file0062.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 530 (happy): file0092.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 531 (happy): file0988.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 532 (happy): file0897.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 533 (happy): file0272.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 534 (happy): file0911.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 535 (happy): file0284.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 536 (happy): file0368.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 537 (happy): file0635.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 538 (happy): file0068.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 539 (happy): file0633.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 540 (happy): file0802.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 541 (happy): file0181.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 542 (happy): file0902.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 543 (happy): file0581.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 544 (happy): file0334.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 545 (happy): file0089.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 546 (happy): file0119.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 547 (happy): file0768.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 548 (happy): file0714.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 549 (happy): file0919.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 550 (happy): file0006.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 551 (happy): file0914.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 552 (happy): file0188.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 553 (happy): file0452.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 554 (happy): file0824.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 555 (happy): file0125.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 556 (happy): file0217.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 557 (happy): file0800.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 558 (happy): file0055.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 559 (happy): file0649.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 560 (happy): file0865.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 561 (happy): file0901.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 562 (happy): file0923.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 563 (happy): file0936.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 564 (happy): file0587.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 565 (happy): file0892.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 566 (happy): file0434.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 567 (happy): file0237.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 568 (happy): file0622.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 569 (happy): file0771.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 570 (happy): file0863.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 571 (happy): file0556.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 572 (happy): file0012.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 573 (happy): file0627.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 574 (happy): file0417.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 575 (happy): file0493.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 576 (happy): file0293.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 577 (happy): file0184.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 578 (happy): file0113.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 579 (happy): file0174.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 580 (happy): file0176.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 581 (happy): file0935.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 582 (happy): file0168.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 583 (happy): file0989.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 584 (happy): file0440.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 585 (happy): file0420.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 586 (happy): file0781.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 587 (happy): file0172.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 588 (happy): file0105.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 589 (happy): file0462.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 590 (happy): file0896.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 591 (happy): file0797.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 592 (happy): file0842.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 593 (happy): file0025.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 594 (happy): file0748.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 595 (happy): file0063.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 596 (happy): file0696.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 597 (happy): file0853.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 598 (happy): file0084.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 599 (happy): file0501.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 600 (happy): file0945.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 601 (happy): file0197.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 602 (happy): file0464.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 603 (happy): file0343.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 604 (happy): file0924.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 605 (happy): file0890.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 606 (happy): file0631.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 607 (happy): file0132.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 608 (happy): file0322.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 609 (happy): file0776.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 610 (happy): file0425.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 611 (happy): file0707.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 612 (happy): file0719.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 613 (happy): file0131.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 614 (happy): file0481.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 615 (happy): file0140.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 616 (happy): file0610.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 617 (happy): file0289.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 618 (happy): file0380.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 619 (happy): file0491.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 620 (happy): file0662.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 621 (happy): file0603.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 622 (happy): file0900.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 623 (happy): file0244.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 624 (happy): file0489.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 625 (happy): file0311.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 626 (happy): file0752.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 627 (happy): file0219.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 628 (happy): file0236.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 629 (happy): file0340.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 630 (happy): file0007.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 631 (happy): file0873.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 632 (happy): file0880.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 633 (happy): file0059.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 634 (happy): file0542.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 635 (happy): file0728.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 636 (happy): file0777.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 637 (happy): file0182.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 638 (happy): file0266.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 639 (happy): file0602.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 640 (happy): file0765.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 641 (happy): file0162.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 642 (happy): file0809.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 643 (happy): file0758.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 644 (happy): file0780.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 645 (happy): file0323.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 646 (happy): file0841.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 647 (happy): file0213.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 648 (happy): file0094.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 649 (happy): file0727.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 650 (happy): file0252.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 651 (happy): file0698.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 652 (happy): file0548.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 653 (happy): file0228.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 654 (happy): file0691.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 655 (happy): file0469.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 656 (happy): file0502.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 657 (happy): file0206.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 658 (happy): file0456.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 659 (happy): file0041.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 660 (happy): file0389.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 661 (happy): file0667.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 662 (happy): file0835.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 663 (happy): file0291.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 664 (happy): file0494.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 665 (happy): file0043.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 666 (happy): file0601.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 667 (happy): file0399.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 668 (happy): file0387.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 669 (happy): file0029.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 670 (happy): file0112.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 671 (happy): file0401.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 672 (happy): file0496.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 673 (happy): file0831.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 674 (happy): file0956.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 675 (happy): file0951.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 676 (happy): file0684.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 677 (happy): file0251.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 678 (happy): file0527.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 679 (happy): file0521.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 680 (happy): file0596.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 681 (happy): file0920.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 682 (happy): file0419.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 683 (happy): file0146.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 684 (happy): file0064.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 685 (happy): file0010.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 686 (happy): file0930.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 687 (happy): file0862.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 688 (happy): file0818.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 689 (happy): file0993.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 690 (happy): file0145.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 691 (happy): file0365.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 692 (happy): file0559.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 693 (happy): file0943.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 694 (happy): file0108.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 695 (happy): file0585.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 696 (happy): file0871.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 697 (happy): file0005.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 698 (happy): file0987.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 699 (happy): file0476.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 700 (happy): file0557.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 701 (happy): file0928.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 702 (happy): file0128.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 703 (happy): file0597.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 704 (happy): file0910.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 705 (happy): file0549.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 706 (happy): file0742.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 707 (happy): file0104.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 708 (happy): file0185.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 709 (happy): file0095.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 710 (happy): file0072.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 711 (happy): file0965.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 712 (happy): file0299.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 713 (happy): file0295.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 714 (happy): file0270.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 715 (happy): file0433.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 716 (happy): file0409.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 717 (happy): file0852.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 718 (happy): file0212.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 719 (happy): file0210.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 720 (happy): file0909.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 721 (happy): file0226.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 722 (happy): file0664.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 723 (happy): file0770.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 724 (happy): file0790.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 725 (happy): file0926.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 726 (happy): file0208.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 727 (happy): file0301.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 728 (happy): file0175.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 729 (happy): file0470.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 730 (happy): file0687.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 731 (happy): file0671.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 732 (happy): file0960.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 733 (happy): file0246.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 734 (happy): file0962.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 735 (happy): file0990.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 736 (happy): file0695.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 737 (happy): file0194.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 738 (happy): file0746.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 739 (happy): file0202.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 740 (happy): file0153.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 741 (happy): file0047.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 742 (happy): file0791.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 743 (happy): file0120.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 744 (happy): file0318.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 745 (happy): file0001.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 746 (happy): file0009.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 747 (happy): file0305.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 748 (happy): file0227.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 749 (happy): file0451.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 750 (happy): file0710.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 751 (happy): file0767.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 752 (happy): file0139.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 753 (happy): file0030.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 754 (happy): file0986.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 755 (happy): file0225.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 756 (happy): file0674.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 757 (happy): file0843.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 758 (happy): file0207.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 759 (happy): file0500.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 760 (happy): file0726.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 761 (happy): file0243.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 762 (happy): file0598.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 763 (happy): file0756.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 764 (happy): file0510.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 765 (happy): file0472.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 766 (happy): file0838.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 767 (happy): file0570.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 768 (happy): file0371.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 769 (happy): file0144.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 770 (happy): file0955.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 771 (happy): file0545.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 772 (happy): file0324.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 773 (happy): file0302.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 774 (happy): file0646.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 775 (happy): file0578.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 776 (happy): file0439.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 777 (happy): file0701.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 778 (happy): file0103.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 779 (happy): file0054.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 780 (happy): file0762.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 781 (happy): file0475.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 782 (happy): file0211.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 783 (happy): file0970.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 784 (happy): file0288.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 785 (happy): file0014.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 786 (happy): file0775.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 787 (happy): file0798.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 788 (happy): file0443.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 789 (happy): file0304.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 790 (happy): file0408.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 791 (happy): file0804.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 792 (happy): file0285.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 793 (happy): file0634.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 794 (happy): file0383.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 795 (happy): file0057.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 796 (happy): file0782.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 797 (happy): file0773.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 798 (happy): file0224.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 799 (happy): file0241.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 800 (happy): file0941.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 801 (happy): file0223.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 802 (happy): file0160.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 803 (happy): file0497.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 804 (happy): file0934.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Total:
+
+Couche 1 :
+Neurone ( 0 ) :  2646
+Neurone ( 1 ) :  2393
+Neurone ( 2 ) :  863
+Neurone ( 3 ) :  774
+Neurone ( 4 ) :  1262
+Neurone ( 5 ) :  1246
+Neurone ( 6 ) :  1178
+Neurone ( 7 ) :  1159
+Neurone ( 8 ) :  1237
+Neurone ( 9 ) :  1840
+Neurone ( 10 ) :  2668
+Neurone ( 11 ) :  2802
+Neurone ( 12 ) :  2702
+Neurone ( 13 ) :  2673
+Neurone ( 14 ) :  3262
+Neurone ( 15 ) :  3536
+Neurone ( 16 ) :  2972
+Neurone ( 17 ) :  2033
+Neurone ( 18 ) :  1540
+Neurone ( 19 ) :  1592
+Neurone ( 20 ) :  1516
+Neurone ( 21 ) :  1319
+Neurone ( 22 ) :  1525
+Neurone ( 23 ) :  1930
+Neurone ( 24 ) :  1870
+Neurone ( 25 ) :  1608
+Neurone ( 26 ) :  1650
+Neurone ( 27 ) :  1949
+Neurone ( 28 ) :  2222
+Neurone ( 29 ) :  2910
+Neurone ( 30 ) :  3286
+Neurone ( 31 ) :  3027
+Neurone ( 32 ) :  2397
+Neurone ( 33 ) :  2137
+Neurone ( 34 ) :  2300
+Neurone ( 35 ) :  1884
+Neurone ( 36 ) :  1143
+Neurone ( 37 ) :  1064
+Neurone ( 38 ) :  2719
+Neurone ( 39 ) :  2902
+
+Couche 2 :
+Neurone ( 0 ) :  13220
+Neurone ( 1 ) :  10615
+Neurone ( 2 ) :  11323
+Neurone ( 3 ) :  10089
+Neurone ( 4 ) :  11650
+Neurone ( 5 ) :  10526
+Neurone ( 6 ) :  11129
+Neurone ( 7 ) :  11369
+Neurone ( 8 ) :  10788
+Neurone ( 9 ) :  11453
+Neurone ( 10 ) :  11267
+Neurone ( 11 ) :  11055
+Neurone ( 12 ) :  11454
+Neurone ( 13 ) :  10356
+Neurone ( 14 ) :  11192
+Neurone ( 15 ) :  11385
+Neurone ( 16 ) :  10659
+Neurone ( 17 ) :  11275
+Neurone ( 18 ) :  10644
+Neurone ( 19 ) :  12907
+
+Couche 3 :
+Neurone ( 0 ) :  1548
+Neurone ( 1 ) :  1547
+
+
+#######################################################
+
+
+Résultats après tests
+testST_US_InhWei_8.py
+
+Init:
+Nb visages souriants : 392
+Nb visages non souriants : 331
+
+Image 0 (happy): file1082.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 1 (happy): file1058.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 2 (happy): file1185.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 3 (happy): file1146.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 4 (happy): file1045.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 5 (happy): file1060.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 6 (happy): file1289.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 7 (happy): file1396.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 8 (happy): file1393.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 9 (happy): file1496.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 10 (happy): file1347.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 11 (happy): file1208.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 12 (happy): file1365.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 13 (happy): file1150.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 14 (happy): file1199.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 15 (happy): file1462.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 16 (happy): file1200.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 17 (happy): file1369.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 18 (happy): file1356.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 19 (happy): file1226.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 20 (happy): file1305.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 21 (happy): file1104.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 22 (happy): file1279.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 23 (happy): file1315.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 24 (happy): file1130.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 25 (happy): file1281.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 26 (happy): file1275.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 27 (happy): file1174.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 28 (happy): file1147.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 29 (happy): file1202.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 30 (happy): file1287.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 31 (happy): file1488.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 32 (happy): file1109.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 33 (happy): file1478.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 34 (happy): file1406.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 35 (happy): file1329.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 36 (happy): file1493.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 37 (happy): file1093.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 38 (happy): file1220.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 39 (happy): file1499.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 40 (happy): file1244.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 41 (happy): file1257.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 42 (happy): file1115.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 43 (happy): file1423.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 44 (happy): file1071.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 45 (happy): file1338.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 46 (happy): file1357.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 47 (happy): file1099.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 48 (happy): file1061.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 49 (happy): file1041.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 50 (happy): file1398.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 51 (happy): file1421.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 52 (happy): file1057.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 53 (happy): file1237.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 54 (happy): file1269.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 55 (happy): file1123.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 56 (happy): file1092.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 57 (happy): file1243.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 58 (happy): file1221.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 59 (happy): file1485.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 60 (happy): file1256.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 61 (happy): file1253.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 62 (happy): file1012.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 63 (happy): file1055.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 64 (happy): file1003.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 65 (happy): file1480.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 66 (happy): file1302.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 67 (happy): file1276.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 68 (happy): file1119.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 69 (happy): file1017.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 70 (happy): file1089.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 71 (happy): file1345.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 72 (happy): file1466.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 73 (happy): file1325.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 74 (happy): file1182.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 75 (happy): file1386.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 76 (happy): file1435.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 77 (happy): file1113.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 78 (happy): file1050.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 79 (happy): file1172.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 80 (happy): file1385.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 81 (happy): file1096.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 82 (happy): file1263.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 83 (happy): file1020.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 84 (happy): file1391.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 85 (happy): file1468.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 86 (happy): file1354.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 87 (happy): file1418.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 88 (happy): file1425.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 89 (happy): file1142.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 90 (happy): file1214.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 91 (happy): file1033.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 92 (happy): file1254.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 93 (happy): file1439.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 94 (happy): file1346.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 95 (happy): file1277.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 96 (happy): file1154.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 97 (happy): file1262.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 98 (happy): file1084.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 99 (happy): file1201.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 100 (happy): file1227.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 101 (happy): file1120.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 102 (happy): file1086.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 103 (happy): file1181.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 104 (happy): file1219.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 105 (happy): file1475.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 106 (happy): file1223.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 107 (happy): file1127.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 108 (happy): file1376.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 109 (happy): file1140.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 110 (happy): file1454.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 111 (happy): file1458.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 112 (happy): file1027.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 113 (happy): file1286.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 114 (happy): file1334.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 115 (happy): file1389.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 116 (happy): file1026.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 117 (happy): file1063.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 118 (happy): file1173.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 119 (happy): file1440.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 120 (happy): file1043.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 121 (happy): file1183.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 122 (happy): file1344.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 123 (happy): file1247.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 124 (happy): file1184.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 125 (happy): file1042.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 126 (happy): file1407.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 127 (happy): file1230.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 128 (happy): file1148.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 129 (happy): file1492.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 130 (happy): file1321.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 131 (happy): file1001.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 132 (happy): file1484.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 133 (happy): file1191.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 134 (happy): file1234.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 135 (happy): file1322.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 136 (happy): file1374.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 137 (happy): file1359.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 138 (happy): file1303.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 139 (happy): file1463.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 140 (happy): file1274.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 141 (happy): file1434.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 142 (happy): file1013.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 143 (happy): file1381.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 144 (happy): file1420.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 145 (happy): file1224.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 146 (happy): file1216.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 147 (happy): file1380.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 148 (happy): file1252.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 149 (happy): file1373.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 150 (happy): file1450.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 151 (happy): file1326.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 152 (happy): file1310.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 153 (happy): file1245.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 154 (happy): file1077.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 155 (happy): file1159.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 156 (happy): file1284.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 157 (happy): file1213.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 158 (happy): file1282.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 159 (happy): file1343.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 160 (happy): file1133.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 161 (happy): file1382.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 162 (happy): file1030.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 163 (happy): file1198.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 164 (happy): file1031.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 165 (happy): file1449.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 166 (happy): file1405.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 167 (happy): file1217.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 168 (happy): file1187.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 169 (happy): file1114.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 170 (happy): file1400.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 171 (happy): file1091.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 172 (happy): file1451.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 173 (happy): file1448.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 174 (happy): file1190.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 175 (happy): file1009.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 176 (happy): file1138.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 177 (happy): file1106.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 178 (happy): file1129.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 179 (happy): file1437.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 180 (happy): file1498.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 181 (happy): file1481.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 182 (happy): file1038.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 183 (happy): file1072.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 184 (happy): file1433.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 185 (happy): file1489.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 186 (happy): file1225.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 187 (happy): file1294.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 188 (happy): file1312.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 189 (happy): file1378.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 190 (happy): file1482.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 191 (happy): file1189.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 192 (happy): file1436.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 193 (happy): file1222.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 194 (happy): file1206.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 195 (happy): file1112.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 196 (happy): file1073.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 197 (happy): file1011.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 198 (happy): file1203.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 199 (happy): file1163.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 200 (happy): file1314.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 201 (happy): file1171.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 202 (happy): file1151.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 203 (happy): file1143.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 204 (happy): file1118.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 205 (happy): file1299.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 206 (happy): file1215.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 207 (happy): file1232.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 208 (happy): file1124.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 209 (happy): file1192.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 210 (happy): file1258.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 211 (happy): file1196.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 212 (happy): file1122.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 213 (happy): file1291.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 214 (happy): file1209.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 215 (happy): file1068.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 216 (happy): file1377.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 217 (happy): file1461.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 218 (happy): file1094.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 219 (happy): file1139.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 220 (happy): file1411.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 221 (happy): file1408.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 222 (happy): file1156.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 223 (happy): file1265.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 224 (happy): file1457.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 225 (happy): file1005.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 226 (happy): file1372.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 227 (happy): file1111.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 228 (happy): file1132.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 229 (happy): file1332.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 230 (happy): file1317.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 231 (happy): file1168.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 232 (happy): file1285.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 233 (happy): file1368.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 234 (happy): file1152.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 235 (happy): file1167.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 236 (happy): file1131.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 237 (happy): file1415.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 238 (happy): file1233.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 239 (happy): file1438.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 240 (happy): file1179.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 241 (happy): file1022.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 242 (happy): file1250.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 243 (happy): file1429.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 244 (happy): file1412.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 245 (happy): file1316.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 246 (happy): file1483.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 247 (happy): file1470.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 248 (happy): file1090.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 249 (happy): file1383.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 250 (happy): file1487.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 251 (happy): file1353.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 252 (happy): file1362.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 253 (happy): file1292.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 254 (happy): file1361.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 255 (happy): file1228.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 256 (happy): file1105.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 257 (happy): file1342.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 258 (happy): file1100.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 259 (happy): file1034.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 260 (happy): file1125.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 261 (happy): file1238.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 262 (happy): file1360.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 263 (happy): file1047.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 264 (happy): file1049.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 265 (happy): file1067.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 266 (happy): file1290.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 267 (happy): file1023.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 268 (happy): file1390.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 269 (happy): file1025.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 270 (happy): file1246.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 271 (happy): file1427.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 272 (happy): file1394.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 273 (happy): file1417.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 274 (happy): file1320.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 275 (happy): file1006.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 276 (happy): file1255.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 277 (happy): file1074.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 278 (happy): file1205.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 279 (happy): file1242.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 280 (happy): file1268.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 281 (happy): file1341.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 282 (happy): file1018.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 283 (happy): file1330.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 284 (happy): file1467.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 285 (happy): file1446.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 286 (happy): file1160.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 287 (happy): file1164.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 288 (happy): file1399.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 289 (happy): file1134.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 290 (happy): file1080.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 291 (happy): file1348.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 292 (happy): file1477.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 293 (happy): file1428.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 294 (happy): file1193.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 295 (happy): file1300.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 296 (happy): file1007.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 297 (happy): file1044.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 298 (happy): file1004.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 299 (happy): file1177.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 300 (happy): file1195.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 301 (happy): file1236.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 302 (happy): file1070.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 303 (happy): file1136.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 304 (happy): file1358.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 305 (happy): file1297.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 306 (happy): file1486.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 307 (happy): file1335.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 308 (happy): file1002.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 309 (happy): file1278.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 310 (happy): file1188.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 311 (happy): file1175.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 312 (happy): file1494.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 313 (happy): file1117.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 314 (happy): file1416.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 315 (happy): file1211.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 316 (happy): file1108.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 317 (happy): file1157.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 318 (happy): file1476.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 319 (happy): file1375.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 320 (happy): file1032.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 321 (happy): file1062.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 322 (happy): file1162.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 323 (happy): file1308.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 324 (happy): file1260.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 325 (happy): file1497.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 326 (happy): file1064.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 327 (happy): file1387.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 328 (happy): file1035.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 329 (happy): file1452.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 330 (happy): file1059.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 331 (happy): file1194.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 332 (happy): file1081.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 333 (happy): file1169.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 334 (happy): file1024.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 335 (happy): file1444.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 336 (happy): file1229.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 337 (happy): file1085.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 338 (happy): file1078.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 339 (happy): file1166.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 340 (happy): file1479.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 341 (happy): file1339.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 342 (happy): file1426.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 343 (happy): file1491.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 344 (happy): file1248.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 345 (happy): file1397.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 346 (happy): file1272.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 347 (happy): file1259.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 348 (happy): file1280.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 349 (happy): file1306.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 350 (happy): file1351.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 351 (happy): file1474.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 352 (happy): file1176.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 353 (happy): file1066.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 354 (happy): file1295.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 355 (happy): file1371.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 356 (happy): file1459.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 357 (happy): file1414.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 358 (happy): file1141.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 359 (happy): file1204.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 360 (happy): file1349.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 361 (happy): file1395.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 362 (happy): file1327.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 363 (happy): file1028.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 364 (happy): file1495.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 365 (happy): file1366.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 366 (happy): file1328.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 367 (happy): file1309.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 368 (happy): file1037.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 369 (happy): file1231.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 370 (happy): file1442.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 371 (happy): file1149.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 372 (happy): file1270.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 373 (happy): file1472.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 374 (happy): file1350.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 375 (happy): file1288.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 376 (happy): file1008.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 377 (happy): file1431.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 378 (happy): file1307.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 379 (happy): file1178.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 380 (happy): file1101.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 381 (happy): file1249.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 382 (happy): file1355.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 383 (happy): file1469.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 384 (happy): file1318.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 385 (happy): file1155.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 386 (happy): file1443.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 387 (happy): file1212.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 388 (happy): file1065.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 389 (happy): file1207.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 390 (happy): file1019.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 391 (happy): file1170.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 392 (neutral): file3206.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 393 (neutral): file3223.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 394 (neutral): file3573.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 395 (neutral): file3390.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 396 (neutral): file3292.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 397 (neutral): file3534.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 398 (neutral): file3399.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 399 (neutral): file3609.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 400 (neutral): file3648.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 401 (neutral): file3372.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 402 (neutral): file3636.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 403 (neutral): file3566.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 404 (neutral): file3664.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 405 (neutral): file3290.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 406 (neutral): file3610.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 407 (neutral): file3585.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 408 (neutral): file3592.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 409 (neutral): file3410.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 410 (neutral): file3195.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 411 (neutral): file3260.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 412 (neutral): file3530.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 413 (neutral): file3331.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 414 (neutral): file3504.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 415 (neutral): file3475.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 416 (neutral): file3651.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 417 (neutral): file3207.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 418 (neutral): file3185.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 419 (neutral): file3286.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 420 (neutral): file3601.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 421 (neutral): file3201.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 422 (neutral): file3654.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 423 (neutral): file3246.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 424 (neutral): file3205.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 425 (neutral): file3474.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 426 (neutral): file3658.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 427 (neutral): file3210.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 428 (neutral): file3531.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 429 (neutral): file3336.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 430 (neutral): file3281.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 431 (neutral): file3243.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 432 (neutral): file3559.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 433 (neutral): file3302.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 434 (neutral): file3395.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 435 (neutral): file3279.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 436 (neutral): file3338.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 437 (neutral): file3646.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 438 (neutral): file3371.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 439 (neutral): file3493.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 440 (neutral): file3578.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 441 (neutral): file3314.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 442 (neutral): file3662.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 443 (neutral): file3213.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 444 (neutral): file3503.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 445 (neutral): file3351.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 446 (neutral): file3284.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 447 (neutral): file3329.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 448 (neutral): file3383.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 449 (neutral): file3605.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 450 (neutral): file3586.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 451 (neutral): file3420.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 452 (neutral): file3505.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 453 (neutral): file3282.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 454 (neutral): file3204.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 455 (neutral): file3462.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 456 (neutral): file3259.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 457 (neutral): file3373.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 458 (neutral): file3203.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 459 (neutral): file3587.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 460 (neutral): file3235.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 461 (neutral): file3285.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 462 (neutral): file3209.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 463 (neutral): file3661.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 464 (neutral): file3634.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 465 (neutral): file3366.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 466 (neutral): file3660.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 467 (neutral): file3621.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 468 (neutral): file3271.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 469 (neutral): file3278.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 470 (neutral): file3309.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 471 (neutral): file3639.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 472 (neutral): file3544.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 473 (neutral): file3176.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 474 (neutral): file3446.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 475 (neutral): file3218.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 476 (neutral): file3625.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 477 (neutral): file3255.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 478 (neutral): file3423.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 479 (neutral): file3575.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 480 (neutral): file3540.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 481 (neutral): file3244.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 482 (neutral): file3488.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 483 (neutral): file3348.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 484 (neutral): file3482.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 485 (neutral): file3180.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 486 (neutral): file3264.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 487 (neutral): file3275.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 488 (neutral): file3542.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 489 (neutral): file3501.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 490 (neutral): file3407.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 491 (neutral): file3414.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 492 (neutral): file3485.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 493 (neutral): file3247.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 494 (neutral): file3254.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 495 (neutral): file3418.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 496 (neutral): file3468.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 497 (neutral): file3502.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 498 (neutral): file3567.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 499 (neutral): file3576.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 500 (neutral): file3199.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 501 (neutral): file3513.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 502 (neutral): file3211.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 503 (neutral): file3425.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 504 (neutral): file3532.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 505 (neutral): file3202.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 506 (neutral): file3564.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 507 (neutral): file3359.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 508 (neutral): file3242.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 509 (neutral): file3296.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 510 (neutral): file3627.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 511 (neutral): file3377.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 512 (neutral): file3177.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 513 (neutral): file3221.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 514 (neutral): file3517.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 515 (neutral): file3590.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 516 (neutral): file3466.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 517 (neutral): file3516.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 518 (neutral): file3598.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 519 (neutral): file3226.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 520 (neutral): file3657.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 521 (neutral): file3476.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 522 (neutral): file3448.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 523 (neutral): file3187.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 524 (neutral): file3624.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 525 (neutral): file3419.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 526 (neutral): file3473.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 527 (neutral): file3362.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 528 (neutral): file3667.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 529 (neutral): file3552.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 530 (neutral): file3339.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 531 (neutral): file3354.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 532 (neutral): file3535.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 533 (neutral): file3508.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 534 (neutral): file3436.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 535 (neutral): file3491.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 536 (neutral): file3642.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 537 (neutral): file3306.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 538 (neutral): file3487.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 539 (neutral): file3421.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 540 (neutral): file3543.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 541 (neutral): file3612.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 542 (neutral): file3401.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 543 (neutral): file3536.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 544 (neutral): file3580.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 545 (neutral): file3214.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 546 (neutral): file3653.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 547 (neutral): file3400.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 548 (neutral): file3266.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 549 (neutral): file3629.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 550 (neutral): file3574.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 551 (neutral): file3577.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 552 (neutral): file3591.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 553 (neutral): file3318.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 554 (neutral): file3320.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 555 (neutral): file3378.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 556 (neutral): file3450.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 557 (neutral): file3342.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 558 (neutral): file3478.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 559 (neutral): file3261.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 560 (neutral): file3333.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 561 (neutral): file3561.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 562 (neutral): file3670.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 563 (neutral): file3224.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 564 (neutral): file3519.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 565 (neutral): file3628.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 566 (neutral): file3231.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 567 (neutral): file3347.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 568 (neutral): file3262.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 569 (neutral): file3465.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 570 (neutral): file3364.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 571 (neutral): file3194.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 572 (neutral): file3557.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 573 (neutral): file3188.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 574 (neutral): file3652.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 575 (neutral): file3656.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 576 (neutral): file3611.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 577 (neutral): file3565.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 578 (neutral): file3477.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 579 (neutral): file3483.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 580 (neutral): file3294.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 581 (neutral): file3428.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 582 (neutral): file3486.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 583 (neutral): file3413.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 584 (neutral): file3645.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 585 (neutral): file3524.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 586 (neutral): file3258.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 587 (neutral): file3619.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 588 (neutral): file3432.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 589 (neutral): file3489.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 590 (neutral): file3229.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 591 (neutral): file3220.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 592 (neutral): file3358.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 593 (neutral): file3537.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 594 (neutral): file3379.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 595 (neutral): file3563.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 596 (neutral): file3230.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 597 (neutral): file3631.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 598 (neutral): file3547.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 599 (neutral): file3499.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 600 (neutral): file3360.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 601 (neutral): file3376.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 602 (neutral): file3640.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 603 (neutral): file3240.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 604 (neutral): file3441.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 605 (neutral): file3355.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 606 (neutral): file3546.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 607 (neutral): file3635.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 608 (neutral): file3368.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 609 (neutral): file3289.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 610 (neutral): file3239.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 611 (neutral): file3556.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 612 (neutral): file3403.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 613 (neutral): file3579.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 614 (neutral): file3461.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 615 (neutral): file3641.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 616 (neutral): file3452.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 617 (neutral): file3548.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 618 (neutral): file3344.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 619 (neutral): file3522.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 620 (neutral): file3469.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 621 (neutral): file3560.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 622 (neutral): file3467.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 623 (neutral): file3422.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 624 (neutral): file3460.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 625 (neutral): file3404.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 626 (neutral): file3632.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 627 (neutral): file3304.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 628 (neutral): file3172.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 629 (neutral): file3323.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 630 (neutral): file3184.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 631 (neutral): file3384.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 632 (neutral): file3426.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 633 (neutral): file3345.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 634 (neutral): file3571.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 635 (neutral): file3593.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 636 (neutral): file3305.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 637 (neutral): file3385.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 638 (neutral): file3365.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 639 (neutral): file3454.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 640 (neutral): file3353.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 641 (neutral): file3551.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 642 (neutral): file3406.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 643 (neutral): file3311.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 644 (neutral): file3463.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 645 (neutral): file3633.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 646 (neutral): file3217.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 647 (neutral): file3457.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 648 (neutral): file3228.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 649 (neutral): file3283.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 650 (neutral): file3521.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 651 (neutral): file3189.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 652 (neutral): file3456.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 653 (neutral): file3433.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 654 (neutral): file3408.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 655 (neutral): file3297.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 656 (neutral): file3596.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 657 (neutral): file3236.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 658 (neutral): file3374.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 659 (neutral): file3638.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 660 (neutral): file3529.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 661 (neutral): file3367.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 662 (neutral): file3175.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 663 (neutral): file3386.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 664 (neutral): file3649.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 665 (neutral): file3659.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 666 (neutral): file3241.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 667 (neutral): file3192.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 668 (neutral): file3614.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 669 (neutral): file3174.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 670 (neutral): file3666.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 671 (neutral): file3549.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 672 (neutral): file3492.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 673 (neutral): file3171.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 674 (neutral): file3337.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 675 (neutral): file3350.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 676 (neutral): file3396.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 677 (neutral): file3430.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 678 (neutral): file3582.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 679 (neutral): file3434.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 680 (neutral): file3263.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 681 (neutral): file3326.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 682 (neutral): file3458.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 683 (neutral): file3316.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 684 (neutral): file3668.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 685 (neutral): file3558.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 686 (neutral): file3222.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 687 (neutral): file3277.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 688 (neutral): file3427.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 689 (neutral): file3431.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 690 (neutral): file3391.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 691 (neutral): file3327.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 692 (neutral): file3301.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 693 (neutral): file3447.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 694 (neutral): file3321.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 695 (neutral): file3179.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 696 (neutral): file3620.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 697 (neutral): file3526.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 698 (neutral): file3650.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 699 (neutral): file3597.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 700 (neutral): file3405.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 701 (neutral): file3435.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 702 (neutral): file3637.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 703 (neutral): file3514.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 704 (neutral): file3212.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 705 (neutral): file3424.jpg
+Neurone 0: 1
+Neurone 1: 1
+
+Image 706 (neutral): file3455.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 707 (neutral): file3429.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 708 (neutral): file3237.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 709 (neutral): file3415.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 710 (neutral): file3608.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 711 (neutral): file3216.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 712 (neutral): file3500.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 713 (neutral): file3553.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 714 (neutral): file3225.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 715 (neutral): file3227.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 716 (neutral): file3357.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 717 (neutral): file3280.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 718 (neutral): file3181.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 719 (neutral): file3388.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 720 (neutral): file3363.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 721 (neutral): file3349.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Image 722 (neutral): file3584.jpg
+Neurone 0: 2
+Neurone 1: 2
+
+Total:
+
+Couche 1 :
+Neurone ( 0 ) :  3218
+Neurone ( 1 ) :  2903
+Neurone ( 2 ) :  2760
+Neurone ( 3 ) :  2620
+Neurone ( 4 ) :  2476
+Neurone ( 5 ) :  2407
+Neurone ( 6 ) :  2338
+Neurone ( 7 ) :  2621
+Neurone ( 8 ) :  3028
+Neurone ( 9 ) :  3895
+Neurone ( 10 ) :  5189
+Neurone ( 11 ) :  6097
+Neurone ( 12 ) :  6352
+Neurone ( 13 ) :  6778
+Neurone ( 14 ) :  7200
+Neurone ( 15 ) :  7566
+Neurone ( 16 ) :  6582
+Neurone ( 17 ) :  5089
+Neurone ( 18 ) :  4029
+Neurone ( 19 ) :  3517
+Neurone ( 20 ) :  3350
+Neurone ( 21 ) :  3359
+Neurone ( 22 ) :  3509
+Neurone ( 23 ) :  3767
+Neurone ( 24 ) :  3971
+Neurone ( 25 ) :  4067
+Neurone ( 26 ) :  4066
+Neurone ( 27 ) :  4233
+Neurone ( 28 ) :  4532
+Neurone ( 29 ) :  5180
+Neurone ( 30 ) :  5903
+Neurone ( 31 ) :  5791
+Neurone ( 32 ) :  5450
+Neurone ( 33 ) :  4813
+Neurone ( 34 ) :  4208
+Neurone ( 35 ) :  3730
+Neurone ( 36 ) :  3582
+Neurone ( 37 ) :  3538
+Neurone ( 38 ) :  3596
+Neurone ( 39 ) :  3810
+
+Couche 2 :
+Neurone ( 0 ) :  8328
+Neurone ( 1 ) :  11032
+Neurone ( 2 ) :  9098
+Neurone ( 3 ) :  9703
+Neurone ( 4 ) :  9370
+Neurone ( 5 ) :  9703
+Neurone ( 6 ) :  9771
+Neurone ( 7 ) :  9703
+Neurone ( 8 ) :  9860
+Neurone ( 9 ) :  10169
+Neurone ( 10 ) :  10169
+Neurone ( 11 ) :  9860
+Neurone ( 12 ) :  9703
+Neurone ( 13 ) :  9771
+Neurone ( 14 ) :  9703
+Neurone ( 15 ) :  9370
+Neurone ( 16 ) :  9703
+Neurone ( 17 ) :  9098
+Neurone ( 18 ) :  11032
+Neurone ( 19 ) :  8328
+
+Couche 3 :
+Neurone ( 0 ) :  1416
+Neurone ( 1 ) :  1416
